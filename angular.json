@@ -30,7 +30,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bulma/js/jquery.min.js"
+            ]
           },
           "configurations": {
             "production": {
